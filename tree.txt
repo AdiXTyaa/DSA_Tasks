@@ -1,0 +1,8 @@
+7
+1 2 3 Is it an animal?
+2 4 5 Does it have four legs?
+3 6 7 Can it fly?
+4 0 0 Is it a dog?
+5 0 0 Is it a cat?
+6 0 0 Is it a bird?
+7 0 0 Is it a butterfly?
